@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 338a212d4118b2a409e059a90c3ca822, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  name: Ridus
+  description: 
+  rightSprite: {fileID: 21300000, guid: 82c5b8d056c093443ae2cb2fb56b25c2, type: 3}
+  leftSprite: {fileID: -4001784482159579254, guid: bea19060471dc844484407df40b08335, type: 3}
+  type1: 1
+  type2: 4
+  maxHp: 130
+  attack: 80
+  defense: 80
+  magicAttack: 80
+  magickDefense: 90
+  speed: 60
+  expYield: 70
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 2d2627d9ed2af1d43baa3fb7b0b3fa9e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 54f966bcd206cfebf97202c4f50be64c, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 3518d37fbcb7b9ca5be2c5017777c607, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: d2562f47fa538894ea962f37945bd3a6, type: 2}
+    level: 15

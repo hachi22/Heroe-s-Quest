@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 338a212d4118b2a409e059a90c3ca822, type: 3}
+  m_Name: Cockatrice
+  m_EditorClassIdentifier: 
+  name: Cockatrice
+  description: 
+  rightSprite: {fileID: 0}
+  leftSprite: {fileID: 21300000, guid: 9f17fbf18cf060c4793edab307f6f27e, type: 3}
+  type1: 1
+  type2: 10
+  maxHp: 60
+  attack: 40
+  defense: 35
+  magicAttack: 20
+  magickDefense: 20
+  speed: 60
+  expYield: 70
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: c0129ba28e38be54789169bb4d801565, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 021b6358dfcfe94f99a59e2a3731de45, type: 2}
+    level: 1

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TeleportPueblo
+  - TeleportCueva
+  - TeleportBosque
+  - TeleportCasaArmas
+  - TeleportCasa
+  - TeleportVolverCasaArmas
+  - TeleportVolverCasa
+  - TeleportMapamundiPueblo
+  - TeleportMapamundiCueva
+  - TeleportMapamundiBosque
+  - TeleportCueva2
+  - TeleportCueva3
+  - TeleportVolverCueva2
+  - TeleportVolverCueva3
+  - TeleportBoss
+  - TeleportVolverBoss
+  - TeleportVolverCasa2
+  - TeleportVolverCasa3
+  - TeleportCasa2
+  - TeleportCasa3
+  - TeleportCasaObjetos
+  - TeleportVolverCasaObjetos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - MidgroundSolid
+  - BattleArenaMap
+  - Interactable
+  - BattleArenaCave
+  - BattleArenaForest
+  - bossFight
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HUD
+    uniqueID: 3578827139
+    locked: 0

@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: dfd91e66ff4492d4fa29389bcf1cde99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7411974349392773033
+    second: House_0
+  - first:
+      213: 7698245334823073023
+    second: House_0
+  - first:
+      213: -8800952261794890131
+    second: House_1
+  - first:
+      213: -4498830320754123391
+    second: House_2
+  - first:
+      213: -6236921177719994883
+    second: House_3
+  - first:
+      213: 209760025568318618
+    second: House_4
+  - first:
+      213: -8092496753843456112
+    second: House_5
+  - first:
+      213: -592878014490161795
+    second: House_6
+  - first:
+      213: 7695040431662866536
+    second: House_7
+  - first:
+      213: -3410089069281418079
+    second: House_8
+  - first:
+      213: -4407595620537778697
+    second: House_9
+  - first:
+      213: 6523083361032224317
+    second: House_10
+  - first:
+      213: -1648500891265986661
+    second: House_11
+  - first:
+      213: 3677301055158113808
+    second: House_12
+  - first:
+      213: -6393866470874402450
+    second: House_13
+  - first:
+      213: -7556263422259152330
+    second: House_14
+  - first:
+      213: 4130475386124678227
+    second: House_15
+  - first:
+      213: -4007423092194072060
+    second: House_16
+  - first:
+      213: 2444009914293299699
+    second: House_17
+  - first:
+      213: -8456875981017683089
+    second: House_18
+  - first:
+      213: -6921091615919648929
+    second: House_19
+  - first:
+      213: -2804467497325422680
+    second: House_20
+  - first:
+      213: -2301986000220483581
+    second: House_21
+  - first:
+      213: 7239874688298455686
+    second: House_22
+  - first:
+      213: -317890174388930631
+    second: House_23
+  - first:
+      213: 5961352061830999394
+    second: House_24
+  - first:
+      213: 2567336203581172711
+    second: House_25
+  - first:
+      213: 1589532493929440828
+    second: House_26
+  - first:
+      213: 4883930409061122365
+    second: House_27
+  - first:
+      213: 1247535170811485897
+    second: House_28
+  - first:
+      213: -7138550192380234050
+    second: House_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: House_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 369
+        width: 151
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4ffef4859a5da60800000000000000
+      internalID: 7698245334823073023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

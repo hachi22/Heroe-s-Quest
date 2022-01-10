@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 338a212d4118b2a409e059a90c3ca822, type: 3}
+  m_Name: Dragon
+  m_EditorClassIdentifier: 
+  name: Dragon
+  description: 
+  rightSprite: {fileID: 0}
+  leftSprite: {fileID: 21300000, guid: f9911f5757a70ec808cddbeb5837116b, type: 3}
+  type1: 2
+  type2: 4
+  maxHp: 100
+  attack: 60
+  defense: 60
+  magicAttack: 70
+  magickDefense: 70
+  speed: 40
+  expYield: 90
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: c0129ba28e38be54789169bb4d801565, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: af77c83996bb3a04c9ece75fe93211ad, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 14561d6eb34ccde4dbc5e7f621c4d856, type: 2}
+    level: 5

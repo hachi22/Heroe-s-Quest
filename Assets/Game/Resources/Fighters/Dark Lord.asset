@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 338a212d4118b2a409e059a90c3ca822, type: 3}
+  m_Name: Dark Lord
+  m_EditorClassIdentifier: 
+  name: Dark Lord
+  description: 
+  rightSprite: {fileID: 0}
+  leftSprite: {fileID: 21300000, guid: 200371db2671b6a49a8fdcb7f9bc9d2b, type: 3}
+  type1: 16
+  type2: 1
+  maxHp: 130
+  attack: 70
+  defense: 70
+  magicAttack: 80
+  magickDefense: 80
+  speed: 80
+  expYield: 0
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: b7ceef5ef7b635df8adf06e77516688f, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: a91c43269fdc7244ab82096f52ce9e76, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 0544fecfcf7e6108094b50196cbf7ea4, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 1ae36c76af7314b049e5c8eab7196a5e, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 98f857b3bd920a306bf88649e4b2a085, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 244142a5862d85a4a9764614a8a10e14, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 3518d37fbcb7b9ca5be2c5017777c607, type: 2}
+    level: 0

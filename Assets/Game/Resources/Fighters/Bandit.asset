@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 338a212d4118b2a409e059a90c3ca822, type: 3}
+  m_Name: Bandit
+  m_EditorClassIdentifier: 
+  name: Bandit
+  description: 
+  rightSprite: {fileID: 0}
+  leftSprite: {fileID: 21300000, guid: 841527da33866f9118592dbf9512986f, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 70
+  attack: 50
+  defense: 50
+  magicAttack: 20
+  magickDefense: 30
+  speed: 70
+  expYield: 70
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 2d2627d9ed2af1d43baa3fb7b0b3fa9e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 92972b73f89708c4eb2187be779d5f1d, type: 2}
+    level: 3

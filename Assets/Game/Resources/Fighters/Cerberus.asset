@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 338a212d4118b2a409e059a90c3ca822, type: 3}
+  m_Name: Cerberus
+  m_EditorClassIdentifier: 
+  name: Cerberus
+  description: 
+  rightSprite: {fileID: 21300000, guid: 552f2c32546638448897922191f1a434, type: 3}
+  leftSprite: {fileID: 21300000, guid: 552f2c32546638448897922191f1a434, type: 3}
+  type1: 2
+  type2: 16
+  maxHp: 120
+  attack: 65
+  defense: 65
+  magicAttack: 70
+  magickDefense: 70
+  speed: 60
+  expYield: 150
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: a91c43269fdc7244ab82096f52ce9e76, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: c0129ba28e38be54789169bb4d801565, type: 2}
+    level: 2
+  - moveBase: {fileID: 11400000, guid: af77c83996bb3a04c9ece75fe93211ad, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 244142a5862d85a4a9764614a8a10e14, type: 2}
+    level: 3

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 338a212d4118b2a409e059a90c3ca822, type: 3}
+  m_Name: Scorpion
+  m_EditorClassIdentifier: 
+  name: Scorpion
+  description: 
+  rightSprite: {fileID: 0}
+  leftSprite: {fileID: 21300000, guid: 6db3d01e3a31e25b8bbf4dce6dae486e, type: 3}
+  type1: 1
+  type2: 3
+  maxHp: 60
+  attack: 50
+  defense: 45
+  magicAttack: 40
+  magickDefense: 50
+  speed: 50
+  expYield: 70
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 021b6358dfcfe94f99a59e2a3731de45, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 54f966bcd206cfebf97202c4f50be64c, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 4baf3de955e5e79d8b62224f4c6c238b, type: 2}
+    level: 3

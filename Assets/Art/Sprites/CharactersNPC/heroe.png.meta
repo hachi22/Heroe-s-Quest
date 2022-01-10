@@ -1,0 +1,2410 @@
+fileFormatVersion: 2
+guid: bea19060471dc844484407df40b08335
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2710699824223887320
+    second: _eroe_0
+  - first:
+      213: 3005857762878044517
+    second: _eroe_1
+  - first:
+      213: 9181708626694779107
+    second: _eroe_2
+  - first:
+      213: 6337357416886708596
+    second: _eroe_3
+  - first:
+      213: -4202251630819116303
+    second: _eroe_4
+  - first:
+      213: 2421078818074062413
+    second: _eroe_5
+  - first:
+      213: -8949298701329587734
+    second: _eroe_6
+  - first:
+      213: -6462689668439775533
+    second: _eroe_7
+  - first:
+      213: -70369262093790622
+    second: _eroe_8
+  - first:
+      213: -9102955479563725378
+    second: _eroe_9
+  - first:
+      213: -3781563582017536205
+    second: _eroe_10
+  - first:
+      213: 1498074436267337695
+    second: _eroe_11
+  - first:
+      213: 7035124775756844910
+    second: _eroe_12
+  - first:
+      213: 8798748033009464421
+    second: _eroe_13
+  - first:
+      213: -6226393192351892596
+    second: _eroe_14
+  - first:
+      213: 926016516461944536
+    second: _eroe_15
+  - first:
+      213: 5766494364759620585
+    second: _eroe_16
+  - first:
+      213: 4065240033278419206
+    second: _eroe_17
+  - first:
+      213: 4100846102846064440
+    second: _eroe_18
+  - first:
+      213: -4896990564730940528
+    second: _eroe_19
+  - first:
+      213: 7607361348050644137
+    second: _eroe_20
+  - first:
+      213: 7539732134924141242
+    second: _eroe_21
+  - first:
+      213: -8329091605170286701
+    second: _eroe_22
+  - first:
+      213: 5422310932172775658
+    second: _eroe_23
+  - first:
+      213: 8598898635039782880
+    second: _eroe_24
+  - first:
+      213: 3207504084100974384
+    second: _eroe_25
+  - first:
+      213: -5069246624509060288
+    second: _eroe_26
+  - first:
+      213: 6647322144218470558
+    second: _eroe_27
+  - first:
+      213: -4001784482159579254
+    second: _eroe_28
+  - first:
+      213: -6122275728148568225
+    second: _eroe_29
+  - first:
+      213: 1631138591109171459
+    second: _eroe_30
+  - first:
+      213: 3557996190825498209
+    second: _eroe_31
+  - first:
+      213: 3649705669459502799
+    second: _eroe_32
+  - first:
+      213: 7501498897190967424
+    second: _eroe_33
+  - first:
+      213: -7081830071958288657
+    second: _eroe_34
+  - first:
+      213: -6637162905013192133
+    second: _eroe_35
+  - first:
+      213: -4486247528754503807
+    second: _eroe_36
+  - first:
+      213: 4613296247518607500
+    second: _eroe_37
+  - first:
+      213: -8486047228315290949
+    second: _eroe_38
+  - first:
+      213: -4794827486194817717
+    second: _eroe_39
+  - first:
+      213: 7686276819788369420
+    second: _eroe_40
+  - first:
+      213: 2185442004161387827
+    second: _eroe_41
+  - first:
+      213: -3185206884054945328
+    second: _eroe_42
+  - first:
+      213: -8798578942425871053
+    second: _eroe_43
+  - first:
+      213: 701209232704154469
+    second: _eroe_44
+  - first:
+      213: -824920395694579349
+    second: _eroe_45
+  - first:
+      213: 5132357976474532471
+    second: _eroe_46
+  - first:
+      213: -1761278740477415883
+    second: _eroe_47
+  - first:
+      213: 6237491084148310877
+    second: _eroe_48
+  - first:
+      213: 1854963717426067135
+    second: _eroe_49
+  - first:
+      213: 3502222078291005482
+    second: _eroe_50
+  - first:
+      213: 4306684341107271914
+    second: _eroe_51
+  - first:
+      213: -5677603512359092002
+    second: _eroe_52
+  - first:
+      213: 5457579182673134427
+    second: _eroe_53
+  - first:
+      213: 9217207676567067378
+    second: _eroe_54
+  - first:
+      213: -5268460335713259209
+    second: _eroe_55
+  - first:
+      213: -5922403955405865576
+    second: _eroe_56
+  - first:
+      213: -1557340011536533542
+    second: _eroe_57
+  - first:
+      213: 5007657431469502692
+    second: _eroe_58
+  - first:
+      213: -4761673599123408788
+    second: _eroe_59
+  - first:
+      213: 4409870220524707992
+    second: _eroe_60
+  - first:
+      213: -7567220228831042368
+    second: _eroe_61
+  - first:
+      213: 8504609810138004754
+    second: _eroe_62
+  - first:
+      213: 5179737443673469548
+    second: _eroe_63
+  - first:
+      213: 1204539174564909190
+    second: _eroe_64
+  - first:
+      213: 1784674856947858668
+    second: _eroe_65
+  - first:
+      213: 8955543127149906699
+    second: _eroe_66
+  - first:
+      213: 575882526684458174
+    second: _eroe_67
+  - first:
+      213: -7541942029940058486
+    second: _eroe_68
+  - first:
+      213: 5983437910761055963
+    second: _eroe_69
+  - first:
+      213: -7647202391497166373
+    second: _eroe_70
+  - first:
+      213: -710824851135391945
+    second: _eroe_71
+  - first:
+      213: 4474887922606927375
+    second: _eroe_72
+  - first:
+      213: 7492268245053291871
+    second: _eroe_73
+  - first:
+      213: 7325379885908208218
+    second: _eroe_74
+  - first:
+      213: -1889755150312450243
+    second: _eroe_75
+  - first:
+      213: 6980003758283945197
+    second: _eroe_76
+  - first:
+      213: 4772331916414396845
+    second: _eroe_77
+  - first:
+      213: 1885581020202704937
+    second: _eroe_78
+  - first:
+      213: 1405782444414358511
+    second: _eroe_79
+  - first:
+      213: 27301466054920868
+    second: _eroe_80
+  - first:
+      213: -247883580415078603
+    second: _eroe_81
+  - first:
+      213: -5725140875497608895
+    second: _eroe_82
+  - first:
+      213: -3652923675293848092
+    second: _eroe_83
+  - first:
+      213: -8588027351960330334
+    second: _eroe_84
+  - first:
+      213: -4498698052578280063
+    second: _eroe_85
+  - first:
+      213: -2054546427131964059
+    second: _eroe_86
+  - first:
+      213: -1162328570855647342
+    second: _eroe_87
+  - first:
+      213: 2836410626492430356
+    second: _eroe_88
+  - first:
+      213: 945148721353968533
+    second: _eroe_89
+  - first:
+      213: 2440617653839498293
+    second: _eroe_90
+  - first:
+      213: 3361989774246339209
+    second: _eroe_91
+  - first:
+      213: -121470519500526349
+    second: _eroe_92
+  - first:
+      213: -7681791096727224027
+    second: _eroe_93
+  - first:
+      213: -5057647160102873667
+    second: _eroe_94
+  - first:
+      213: 4883752176812543599
+    second: _eroe_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _eroe_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 504
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820eb6c2fd8a16ad0800000000000000
+      internalID: -2710699824223887320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 505
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56932b9a5b3f6b920800000000000000
+      internalID: 3005857762878044517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 504
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e03845695bfb6f70800000000000000
+      internalID: 9181708626694779107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 504
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47928307ef0d2f750800000000000000
+      internalID: 6337357416886708596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 505
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa7830086a9ea5c0800000000000000
+      internalID: -4202251630819116303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 504
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ee68c8b56699120800000000000000
+      internalID: 2421078818074062413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 504
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1a26e1f34bdc380800000000000000
+      internalID: -8949298701329587734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 505
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d66f03ccf9ef46a0800000000000000
+      internalID: -6462689668439775533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 504
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2621bc9678ff50ff0800000000000000
+      internalID: -70369262093790622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 504
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5986a883ecba180800000000000000
+      internalID: -9102955479563725378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 505
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f7a4e25ff258bc0800000000000000
+      internalID: -3781563582017536205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 504
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7eecc33ca3ac410800000000000000
+      internalID: 1498074436267337695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 432
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f4989b5b8c1a160800000000000000
+      internalID: 7035124775756844910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 432
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56432bfd7be6b1a70800000000000000
+      internalID: 8798748033009464421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 432
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b74f161686799a0800000000000000
+      internalID: -6226393192351892596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 432
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dedbdf8d1fd9dc00800000000000000
+      internalID: 926016516461944536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 432
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebf9c29214b60050800000000000000
+      internalID: 5766494364759620585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 432
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601e14e8542aa6830800000000000000
+      internalID: 4065240033278419206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 432
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8374fa6adc129e830800000000000000
+      internalID: 4100846102846064440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 432
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093d5c8d6056a0cb0800000000000000
+      internalID: -4896990564730940528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 432
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac689c27d6c29960800000000000000
+      internalID: 7607361348050644137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 432
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab240c3fd6282a860800000000000000
+      internalID: 7539732134924141242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_22
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 432
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f0324805f196c80800000000000000
+      internalID: -8329091605170286701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_23
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 432
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae020ed601bef3b40800000000000000
+      internalID: 5422310932172775658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 360
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e73329efbc655770800000000000000
+      internalID: 8598898635039782880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 360
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037047c68f7538c20800000000000000
+      internalID: 3207504084100974384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 360
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b1a439d0b66a9b0800000000000000
+      internalID: -5069246624509060288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 360
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98dab96548004c50800000000000000
+      internalID: 6647322144218470558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 360
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f2531473ec678c0800000000000000
+      internalID: -4001784482159579254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 360
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5765b699ae490ba0800000000000000
+      internalID: -6122275728148568225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 360
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3094e7e08e7f2a610800000000000000
+      internalID: 1631138591109171459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_31
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 360
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166c85a3faa806130800000000000000
+      internalID: 3557996190825498209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_32
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 360
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6ecda28fb56a230800000000000000
+      internalID: 3649705669459502799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 360
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0885d0a908daa1860800000000000000
+      internalID: 7501498897190967424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_34
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 360
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe64f39121948bd90800000000000000
+      internalID: -7081830071958288657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_35
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 360
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3af94ac08f04e3a0800000000000000
+      internalID: -6637162905013192133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f1d1a44a5adb1c0800000000000000
+      internalID: -4486247528754503807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 289
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c883dfcae78b50040800000000000000
+      internalID: 4613296247518607500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 288
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb23411c1018b3a80800000000000000
+      internalID: -8486047228315290949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 288
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45241e2ec9557db0800000000000000
+      internalID: -4794827486194817717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 289
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e0ec04b042baa60800000000000000
+      internalID: 7686276819788369420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_41
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 288
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dd14f7cef345e10800000000000000
+      internalID: 2185442004161387827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_42
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 288
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1b6c3073fdbc3d0800000000000000
+      internalID: -3185206884054945328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_43
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 289
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d4978911b25e580800000000000000
+      internalID: -8798578942425871053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_44
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 288
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b2e8cf4123bb900800000000000000
+      internalID: 701209232704154469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_45
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 288
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6166ae454b4d84f0800000000000000
+      internalID: -824920395694579349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_46
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 289
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a38ef136cc93740800000000000000
+      internalID: 5132357976474532471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_47
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 288
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e6563315eae87e0800000000000000
+      internalID: -1761278740477415883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 216
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d538358e715009650800000000000000
+      internalID: 6237491084148310877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_49
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 217
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb63b684ca72eb910800000000000000
+      internalID: 1854963717426067135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 216
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20d015bc646a9030800000000000000
+      internalID: 3502222078291005482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 216
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8af67279a64cb30800000000000000
+      internalID: 4306684341107271914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 217
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0835ecfa91531b0800000000000000
+      internalID: -5677603512359092002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_53
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 216
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b538cc4e9573dbb40800000000000000
+      internalID: 5457579182673134427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 216
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa98c60c891aef70800000000000000
+      internalID: 9217207676567067378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 217
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7317398fc3ba2e6b0800000000000000
+      internalID: -5268460335713259209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_56
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 216
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d3aa51bf46fcda0800000000000000
+      internalID: -5922403955405865576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_57
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 216
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7bcd9b287336ae0800000000000000
+      internalID: -1557340011536533542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_58
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 217
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0b597f6e5ce7540800000000000000
+      internalID: 5007657431469502692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_59
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 216
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68b4eb07132bedb0800000000000000
+      internalID: -4761673599123408788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 144
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e2ffd991033d30800000000000000
+      internalID: 4409870220524707992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_61
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 144
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c420637b45dbf690800000000000000
+      internalID: -7567220228831042368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_62
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 144
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21df39e1091760670800000000000000
+      internalID: 8504609810138004754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_63
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 144
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6272f7f2cf12e740800000000000000
+      internalID: 5179737443673469548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 144
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680dbf15ff167b010800000000000000
+      internalID: 1204539174564909190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 144
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecb2f7a35074c810800000000000000
+      internalID: 1784674856947858668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_66
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 144
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b0670960b784c70800000000000000
+      internalID: 8955543127149906699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_67
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 144
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebca16b5b12fdf700800000000000000
+      internalID: 575882526684458174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_68
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 144
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8695d4cea3a55790800000000000000
+      internalID: -7541942029940058486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_69
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 144
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6a4860411790350800000000000000
+      internalID: 5983437910761055963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_70
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 144
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd13b4901fdafd590800000000000000
+      internalID: -7647202391497166373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_71
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 144
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7371e826094a226f0800000000000000
+      internalID: -710824851135391945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 72
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eebac4bdef91e30800000000000000
+      internalID: 4474887922606927375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_73
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 72
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d375ce542e9f760800000000000000
+      internalID: 7492268245053291871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 72
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aa958d13af8a560800000000000000
+      internalID: 7325379885908208218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_75
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 72
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37592104bd36c5e0800000000000000
+      internalID: -1889755150312450243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_76
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 72
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4f76fbf64fdd060800000000000000
+      internalID: 6980003758283945197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_77
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 72
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9a324d79aba3240800000000000000
+      internalID: 4772331916414396845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_78
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 72
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920a66892fdea2a10800000000000000
+      internalID: 1885581020202704937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 72
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe35cce5fa7528310800000000000000
+      internalID: 1405782444414358511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_80
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 72
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa0d0ae98ef06000800000000000000
+      internalID: 27301466054920868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_81
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 72
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f05bb62375f8cf0800000000000000
+      internalID: -247883580415078603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_82
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 72
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14965e2f4b63c80b0800000000000000
+      internalID: -5725140875497608895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_83
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 72
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edee7675453e4dc0800000000000000
+      internalID: -3652923675293848092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd01def9231d880800000000000000
+      internalID: -8588027351960330334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_85
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d7450d4f96191c0800000000000000
+      internalID: -4498698052578280063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_86
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5655044f8e8cc73e0800000000000000
+      internalID: -2054546427131964059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_87
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2979cd5b2549edfe0800000000000000
+      internalID: -1162328570855647342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_88
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4187935df64fc5720800000000000000
+      internalID: 2836410626492430356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_89
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bc73421c7dd1d00800000000000000
+      internalID: 945148721353968533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_90
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c86a143d0ded120800000000000000
+      internalID: 2440617653839498293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_91
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982e27813ef28ae20800000000000000
+      internalID: 3361989774246339209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_92
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc2d72c433705ef0800000000000000
+      internalID: -121470519500526349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_93
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521c0d882bbc46590800000000000000
+      internalID: -7681791096727224027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_94
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db51ec654b0afc9b0800000000000000
+      internalID: -5057647160102873667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _eroe_95
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ec3f5cab296c340800000000000000
+      internalID: 4883752176812543599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

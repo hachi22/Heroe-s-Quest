@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 338a212d4118b2a409e059a90c3ca822, type: 3}
+  m_Name: Spider
+  m_EditorClassIdentifier: 
+  name: Spider
+  description: 
+  rightSprite: {fileID: 0}
+  leftSprite: {fileID: 21300000, guid: a6d1e4bc2f7b465ddb48ccd364d96c74, type: 3}
+  type1: 1
+  type2: 16
+  maxHp: 55
+  attack: 40
+  defense: 40
+  magicAttack: 20
+  magickDefense: 20
+  speed: 70
+  expYield: 70
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 244142a5862d85a4a9764614a8a10e14, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 021b6358dfcfe94f99a59e2a3731de45, type: 2}
+    level: 3
